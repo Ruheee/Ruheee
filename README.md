@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruheee
-- 👀 I’m interested in Frontend Development 
+- 👀 I’m interested in becoming a Full Stack Dev
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on any projects that promote learning for beginners!
 - 📫 How to reach me - Just shoot me a message!
