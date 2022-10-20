@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruheee
 - 👀 I’m interested in becoming a Full Stack Dev
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on any projects that promote learning for beginners!
+- 🌱 I’m currently a student at Lighthouse Labs
+- 💞️ I’m looking to collaborate on any projects that promote learning for beginners and push me to be my best!~
 - 📫 How to reach me - Just shoot me a message!
 
 <!---
