@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Rui! 👋
 
-Welcome to my GitHub profile. I'm a passionate developer with a strong interest in [mention your main interests or areas of focus, e.g., web development, machine learning, open source].
+Welcome to my GitHub profile. I'm a passionate developer with a strong interest in Front-end engineering and building cool websites.
 
 ## About Me
 
