@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong interest 
 
 ## About Me
 
-- 💼 I'm currently working as a Web Developer and designer for Expense Trend while working as a freelance part-time developer for ImmiCAN AI.
+- 💼 I'm currently working as a Web Developer and designer for Expense Trend.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 🔭 I'm passionate about building cool web applications that can make everyones daily life easier and more interesting.
 - 📫 You can reach me at ruidantas55@gmail.com.
